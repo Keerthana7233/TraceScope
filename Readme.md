@@ -36,7 +36,7 @@
 ### Setup
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/SWAPNILSHAW/TraceScope.git
+   git clone https://github.com/Keerthana7233/TraceScope.git
    cd TraceScope
    ```
 
@@ -141,4 +141,4 @@ Contributions are welcome! Please submit a Pull Request or open an Issue for bug
 This project is licensed under the MIT License - see the `LICENSE` file for details.
 
 ---
-*Created by SWAPNIL SHAW for [Organization/Event]*
+*Created by R.KEERTHANA for [Organization/Event]*
